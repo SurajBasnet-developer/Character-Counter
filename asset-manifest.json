@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Character-Counter/static/css/main.3464aba1.css",
+    "main.js": "/Character-Counter/static/js/main.5094f83a.js",
+    "index.html": "/Character-Counter/index.html",
+    "main.3464aba1.css.map": "/Character-Counter/static/css/main.3464aba1.css.map",
+    "main.5094f83a.js.map": "/Character-Counter/static/js/main.5094f83a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3464aba1.css",
+    "static/js/main.5094f83a.js"
+  ]
+}
